@@ -1,0 +1,26 @@
+{
+  "name": "ethereum-spatial-abstraction-library",
+  "version": "1.0.0",
+  "description": "A spatial abstraction library in Solidity",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robisoniv/ethereum-spatial-abstraction-library.git"
+  },
+  "author": "John IV",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robisoniv/ethereum-spatial-abstraction-library/issues"
+  },
+  "homepage": "https://github.com/robisoniv/ethereum-spatial-abstraction-library#readme",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "d3": "^5.9.1"
+  }
+}
